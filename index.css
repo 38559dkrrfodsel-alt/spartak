@@ -1,0 +1,130 @@
+.igor{
+height: 300px;
+width: auto;
+}
+.anton{
+height: 300px;
+width: auto;
+}
+.pablo{
+height: 300px;
+width: auto;
+}
+.attax{
+gap: 10px 20px;
+display: flex;
+justify-content: space-around
+}
+.roma{
+height: 300px;
+width: auto;
+}
+.fer{
+height: 300px;
+width: auto;
+}
+.nail{
+height: 300px;
+width: auto;
+}
+.pz{
+margin-top: 70px;
+display: flex;
+justify-content: space-around
+}
+.whoo{
+height: 300px;
+width: auto;
+}
+.djiku{
+height: 300px;
+width: auto;
+}
+.rus{
+height: 300px;
+width: auto;
+}
+.babich{
+height: 300px;
+width: auto;
+}
+.zash{
+margin-top: 70px;
+display: flex;
+justify-content: space-around
+}
+.sasha{
+height: 300px;
+width: auto;
+}
+.gk{
+margin-top: 70px;
+display: flex;
+justify-content: center
+}
+.namesasha{
+display: flex;
+justify-content: center
+}
+.namedjiku{
+display: flex;
+justify-content: center
+}
+.namerus{
+display: flex;
+justify-content: center
+}
+.namewhoo{
+display: flex;
+justify-content: center
+}
+.namebabich{
+display: flex;
+justify-content: center
+}
+.namenail{
+display: flex;
+justify-content: center
+}
+.namefer{
+display: flex;
+justify-content: center
+}
+.nameroma{
+display: flex;
+justify-content: center
+}
+.namepablo{
+display: flex;
+justify-content: center
+}
+.nameanton{
+display: flex;
+justify-content: center
+}
+.nameigor{
+display: flex;
+justify-content: center
+}
+figcaption{
+font-family: "arial black";
+font-size: 17px;
+color: rgb(127, 12, 12);
+}
+.romanov{
+height: 400px;
+width: auto;
+}
+.tren{
+display: flex;
+justify-content: start
+}
+.nameromanov{
+font-size: 100px;
+font-family: "arial black";
+color: rgb(127, 12, 12);
+}
+.vso{
+background-image: url(https://img.freepik.com/premium-photo/red-white-abstract-background-indonesia-pattern_773912-22.jpg?semt=ais_hybrid&w=740);
+background-size: cover
+}
