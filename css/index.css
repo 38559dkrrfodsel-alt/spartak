@@ -1,0 +1,246 @@
+.igor{
+height: 300px;
+width: auto;
+}
+.anton{
+height: 300px;
+width: auto;
+}
+.pablo{
+height: 300px;
+width: auto;
+}
+.attax{
+display: flex;
+justify-content: space-around
+}
+.roma{
+height: 300px;
+width: auto;
+}
+.fer{
+height: 300px;
+width: auto;
+}
+.nail{
+height: 300px;
+width: auto;
+}
+.pz{
+margin-top: 70px;
+display: flex;
+justify-content: space-around
+}
+.whoo{
+height: 300px;
+width: auto;
+}
+.djiku{
+height: 300px;
+width: auto;
+}
+.rus{
+height: 300px;
+width: auto;
+}
+.babich{
+height: 300px;
+width: auto;
+}
+.zash{
+margin-top: 70px;
+display: flex;
+justify-content: space-around
+}
+.sasha{
+height: 300px;
+width: auto;
+}
+.gk{
+margin-top: 70px;
+display: flex;
+justify-content: center
+}
+.namesasha{
+display: flex;
+justify-content: center
+}
+.namedjiku{
+display: flex;
+justify-content: center
+}
+.namerus{
+display: flex;
+justify-content: center
+}
+.namewhoo{
+display: flex;
+justify-content: center
+}
+.namebabich{
+display: flex;
+justify-content: center
+}
+.namenail{
+display: flex;
+justify-content: center
+}
+.namefer{
+display: flex;
+justify-content: center
+}
+.nameroma{
+display: flex;
+justify-content: center
+}
+.namepablo{
+display: flex;
+justify-content: center
+}
+.nameanton{
+display: flex;
+justify-content: center
+}
+.nameigor{
+display: flex;
+justify-content: center
+}
+figcaption{
+font-family: "arial black";
+font-size: 17px;
+color: rgb(211,214,219);
+}
+.romanov{
+height: 400px;
+width: auto;
+}
+.tren{
+margin: 70px;
+padding: 20px;
+background-color: rgb(216,38,36);
+border-radius: 20px;
+display: flex;
+justify-content: start
+}
+.nameromanov{
+margin-top: 50px;
+font-size: 100px;
+font-family: "arial black";
+color: rgb(211,214,219);
+}
+.vso{
+background-image: url(https://i.pinimg.com/originals/01/7e/e7/017ee78ad95ba4539ab471699b23563c.png?nii=t);
+background-size: cover
+}
+.t{ 
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.a{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.b{ 
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.c{ 
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.d{ 
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.e{ 
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.f{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.g{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.s{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.p{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.r{
+padding: 20px;
+border-radius: 20px;
+background-color: rgb(216,38,36)
+}
+.glav{
+margin: 20px;
+font-family: "arial black";
+font-size: 42px;
+color:  rgb(211,214,219);
+}
+.nap{
+display: flex;
+justify-content: center;
+font-family: "arial black";
+font-size: 50px;
+color:rgb(216,38,36) 
+}
+.pol{
+display: flex;
+justify-content: center;
+font-family: "arial black";
+font-size: 50px;
+color: rgb(216,38,36)
+}
+.z{
+display: flex;
+justify-content: center;
+font-family: "arial black";
+font-size: 50px;
+color: rgb(216,38,36)
+}
+.ge{
+display: flex;
+justify-content: center;
+font-family: "arial black";
+font-size: 50px;
+color: rgb(216,38,36)
+}
+.logo1{
+display: flex;
+justify-content: end;
+}
+.he{
+display: flex;
+justify-content: center;
+}
+.logo{
+padding: 20px;
+height: 160px;
+width: auto;
+}
+.shapka{
+background-color: rgb(216,38,36);
+border-radius: 20px;
+position: sticky;
+top: 0;
+width: 100%; 
+}
+body{
+background-color: rgb(211,214,219);
+}
